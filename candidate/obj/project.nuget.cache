@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McPptsPPzCA1GFhJ0U2I/LzFJ17An6G2b/zp71A8Sz+dTCwbEX9UHSxFm6DRss3o7ZOe7SjnAr4OrEOCF3SuSQ==",
+  "success": true,
+  "projectFilePath": "H:\\Angular10\\Demo\\AngularPractice\\candidate\\candidate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
